@@ -11,6 +11,7 @@ Last Seen: 1.16.06 -> Posts
 Last Seen: 1.35.35 -> Clear Backend
 Last Seen: 1.41.46 -> Mulai Frontend
 Last Seen: 1.49.56 -> Setup Awal
+Last Seen: 2.19.39 -> Selesai theme, state, routing
 
 todo in terminal:
 1. root -> npm init -y
@@ -19,6 +20,7 @@ todo in terminal:
 4. server -> nodemon
 5. root -> npx create-react-app client
 6. client -> npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material
+7. client -> npm run start
 
 todo in mongo:
 1. buat cluster
