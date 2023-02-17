@@ -12,7 +12,9 @@ Last Seen: 1.35.35 -> Clear Backend
 Last Seen: 1.41.46 -> Mulai Frontend
 Last Seen: 1.49.56 -> Setup Awal
 Last Seen: 2.19.39 -> Selesai theme, state, routing
-Last Seen: 2.46.52 -> Selesai HomePage tapi gak tampil, jadi copas dari git banyak file
+Last Seen: 2.46.52 -> Selesai HomePage tapi gak tampil, jadi copas dari git banyak file (ternyata karna belum login alias lanjutin dulu ajaa)
+Last Seen: 3.31.05 -> Selesai LoginPage panjaaang, jadi bisa tampil (lalu tambahkan navigasi untuk wajib login di App.js)
+Last Seen: 3.34.05 -> Buat Component WidgetWrapper.jsx
 
 todo in terminal:
 1. root -> npm init -y
