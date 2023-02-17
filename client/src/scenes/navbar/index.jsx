@@ -89,7 +89,7 @@ const Navbar = () => {
 
       {/* MOBILE NAVIGATION */}
       {!isNonMobileScreens && isMobileMenuToggled && (
-        <Box position="fixed" right="0" bottom="0" height="100%" zIndex="10" maxWidth="500px" minwidth="300px" backgroundColor={background}>
+        <Box position="fixed" right="0" bottom="0" height="100%" zIndex="10" maxWidth="500px" minWidth="300px" backgroundColor={background}>
           {/* CLOSE ICON */}
           <Box display="flex" justifyContent="flex-end" p="1rem">
             <IconButton onClick={() => setIsMobileMenuToggled(!isMobileMenuToggled)}>
