@@ -12,6 +12,7 @@ Last Seen: 1.35.35 -> Clear Backend
 Last Seen: 1.41.46 -> Mulai Frontend
 Last Seen: 1.49.56 -> Setup Awal
 Last Seen: 2.19.39 -> Selesai theme, state, routing
+Last Seen: 2.46.52 -> Selesai HomePage tapi gak tampil, jadi copas dari git banyak file
 
 todo in terminal:
 1. root -> npm init -y
