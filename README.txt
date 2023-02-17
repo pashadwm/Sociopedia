@@ -16,6 +16,7 @@ Last Seen: 2.46.52 -> Selesai HomePage tapi gak tampil, jadi copas dari git bany
 Last Seen: 3.31.05 -> Selesai LoginPage panjaaang, jadi bisa tampil (lalu tambahkan navigasi untuk wajib login di App.js)
 Last Seen: 3.34.05 -> Buat Component WidgetWrapper.jsx
 Last Seen: 4.03.53 -> Trouble kalo buat postingan baru
+Last Seen: 4.36.10 -> Buat Component Friend.jsx
 
 todo in terminal:
 1. root -> npm init -y
